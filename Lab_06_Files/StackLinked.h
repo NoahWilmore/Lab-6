@@ -1,6 +1,6 @@
 #if !defined (STACKLINKED_H)
 #define STACKLINKED_H
-
+#include "StackList.h"
 #include "NextNode.h"
 
 template < class T >
